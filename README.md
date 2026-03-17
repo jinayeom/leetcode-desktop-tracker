@@ -8,6 +8,6 @@ Time to hold yourself accountable and grind that LeetCode!
 
 ## Features 
 ✅ Heatmap layout of progress <br>
-✅ Customize heatmap color <br
-✅ Visualize LeetCode progress for the whole year
+✅ Customize heatmap color <br>
+✅ Visualize LeetCode progress for the whole year <br>
 
